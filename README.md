@@ -21,6 +21,8 @@ This will:
 - Create the database and populates it with the needed data
 - Finally, start both backend and frontend servers
 
+This process will take a while, and you might see some errors, but do not be afraid, just let it run until the servers have started.
+
 ### Manual
 If for some reason the automated setup fails, you can do all the steps manually as a fallback.
 
